@@ -5,6 +5,7 @@ Ninaivu (Tamil நினைவு, "memory") is a macOS menu bar app for setting
 This repository only hosts the downloadable builds. Install with Homebrew:
 
     brew tap mailbagrahul/ninaivu
+    brew trust mailbagrahul/ninaivu
     brew install --cask ninaivu
 
 Or download the zip from the latest release and drag `Ninaivu.app` to Applications.
