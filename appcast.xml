@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle">
+  <channel>
+    <title>Ninaivu</title>
+    <link>https://github.com/mailbagrahul/ninaivu-releases</link>
+    <description>Ninaivu updates</description>
+    <language>en</language>
+    <item>
+      <title>Ninaivu 0.3.0</title>
+      <pubDate>Sun, 27 Sep 2026 04:06:36 GMT</pubDate>
+      <sparkle:version>4</sparkle:version>
+      <sparkle:shortVersionString>0.3.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<ul><li>Future-dated reminders: `dentist fri 3pm`, `tomorrow 9am`, `oct 3`, `next mon`, `in 3 days`; a date alone means 9 AM.</li><li>Date and time picker next to the quick entry field.</li><li>Upcoming list grouped by day (Today, Tomorrow, each later date); recents trimmed to six with Show all.</li><li>Add time or reschedule: row hover (+5m, +1h, calendar), right-click menu, and a ⋯ menu on the &quot;It&#x27;s time&quot; card.</li><li>Settings moved to their own window (gear in the popover, ⌘,, or right-click › Settings…).</li><li>In-app updates via Sparkle: an &quot;Update available&quot; banner and a menu bar dot; one click installs and relaunches, reminders are kept.</li><li>Cask marked `auto_updates true`.</li></ul>]]></description>
+      <enclosure url="https://github.com/mailbagrahul/ninaivu-releases/releases/download/v0.3.0/Ninaivu-0.3.0.zip" type="application/octet-stream" sparkle:edSignature="YplqrAyPzwufeU4NmTp6YKaM2RnLYCy/HnqGSiaa9myOcLtBd8GRjvlWy46ht9lgtu565p15yK1Q0zc2KsDACA==" length="1966807"/>
+    </item>
+  </channel>
+</rss>
