@@ -17,5 +17,3 @@ Requires macOS 14 or later.
 ## Credits
 
 - **[Noty](https://github.com/aimen08/noty)** by Aymen Hamza ([@aimen08](https://github.com/aimen08)), MIT License — Ninaivu's sticky-notes deck (from 0.4.0) is ported from Noty. Its license ships inside the app (`Ninaivu.app/Contents/Resources/Licenses/`) and is shown in Settings › About.
-- **[Gestimer](https://maddin.io/gestimer/)** — the idea of dragging a reminder down from the menu bar (idea only, no code).
-- **[Sparkle](https://sparkle-project.org)**, MIT License — in-app updates.
