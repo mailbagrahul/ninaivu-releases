@@ -6,6 +6,15 @@
     <description>Ninaivu updates</description>
     <language>en</language>
     <item>
+      <title>Ninaivu 0.4.1</title>
+      <pubDate>Sun, 27 Sep 2026 05:40:47 GMT</pubDate>
+      <sparkle:version>6</sparkle:version>
+      <sparkle:shortVersionString>0.4.1</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<ul><li>Notes deck: a Position slider (top to bottom) in Settings › Deck, and Top / Middle / Bottom in the pill&#x27;s right-click menu. ⌥-drag still works.</li><li>Notes deck: Pill size (100–300%) makes the resting pill bigger and easier to find without enlarging the tabs; also in the pill&#x27;s right-click menu.</li></ul>]]></description>
+      <enclosure url="https://github.com/mailbagrahul/ninaivu-releases/releases/download/v0.4.1/Ninaivu-0.4.1.zip" type="application/octet-stream" sparkle:edSignature="/30ZhopF0TCg4LmOfNG99/ajHN3aukVwocKvaUVKtmGaL5lAntJNhgM5xjopMQ1NJKOqO9sR+FW1Mejwo6j3CA==" length="2865847"/>
+    </item>
+    <item>
       <title>Ninaivu 0.4.0</title>
       <pubDate>Sun, 27 Sep 2026 05:27:25 GMT</pubDate>
       <sparkle:version>5</sparkle:version>
