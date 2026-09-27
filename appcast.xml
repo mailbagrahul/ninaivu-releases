@@ -6,6 +6,15 @@
     <description>Ninaivu updates</description>
     <language>en</language>
     <item>
+      <title>Ninaivu 0.4.2</title>
+      <pubDate>Sun, 27 Sep 2026 06:18:26 GMT</pubDate>
+      <sparkle:version>7</sparkle:version>
+      <sparkle:shortVersionString>0.4.2</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<ul><li>Fix: Pill size now redraws the pill at the new size (it used to resize only the invisible window around a pill that stayed small).</li><li>Fix: Settings › Deck › Size no longer resizes the resting pill, so Size (tabs), Pill size (pill) and Position (height) each do one thing. Clearer help text under each.</li></ul>]]></description>
+      <enclosure url="https://github.com/mailbagrahul/ninaivu-releases/releases/download/v0.4.2/Ninaivu-0.4.2.zip" type="application/octet-stream" sparkle:edSignature="/bfMJdqkmusB3I7Eu3lihupgy8kGn+0RVqI65hH9MGYctR/FhWsnwop5GI33o/Ig5xjC8iDutrPIujULU0N1Dg==" length="2867728"/>
+    </item>
+    <item>
       <title>Ninaivu 0.4.1</title>
       <pubDate>Sun, 27 Sep 2026 05:40:47 GMT</pubDate>
       <sparkle:version>6</sparkle:version>
