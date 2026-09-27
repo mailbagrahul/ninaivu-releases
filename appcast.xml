@@ -6,6 +6,15 @@
     <description>Ninaivu updates</description>
     <language>en</language>
     <item>
+      <title>Ninaivu 0.4.0</title>
+      <pubDate>Sun, 27 Sep 2026 05:27:25 GMT</pubDate>
+      <sparkle:version>5</sparkle:version>
+      <sparkle:shortVersionString>0.4.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<ul><li>Notes: sticky notes at the edge of the screen, derived from Noty (MIT, © Aymen Hamza). Edge deck with labelled tabs or colour chips, live Markdown, checkbox tasks, images, pinned and floating notes, quick capture (⇧⌘Space), All Notes and Archive, export/import, optional iCloud Drive sync, encrypted note bodies, twelve rebindable shortcuts, `ninaivu://` URL scheme.</li><li>Remind me about a note: bell in the note header takes `20m`, `3pm`, `fri 9am`; the &quot;It&#x27;s time&quot; card gets a Note button that opens it.</li><li>Settings is one tabbed window: Reminders, Shortcuts, Deck, Notes, Sync, Updates, About.</li><li>Popover and menu bar menu gain New Note, Quick Capture, All Notes and Archive.</li></ul>]]></description>
+      <enclosure url="https://github.com/mailbagrahul/ninaivu-releases/releases/download/v0.4.0/Ninaivu-0.4.0.zip" type="application/octet-stream" sparkle:edSignature="8YkeFlk5oqeB/5Vi03HsXGR5EGwJG4FEH6NqGownu4iKF/+3xSUAS+i4SFlFj8+WmzQimQoA0MvG258a30W7CA==" length="2859148"/>
+    </item>
+    <item>
       <title>Ninaivu 0.3.0</title>
       <pubDate>Sun, 27 Sep 2026 04:06:36 GMT</pubDate>
       <sparkle:version>4</sparkle:version>
