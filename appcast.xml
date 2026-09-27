@@ -6,6 +6,15 @@
     <description>Ninaivu updates</description>
     <language>en</language>
     <item>
+      <title>Ninaivu 0.4.3</title>
+      <pubDate>Sun, 27 Sep 2026 06:27:11 GMT</pubDate>
+      <sparkle:version>8</sparkle:version>
+      <sparkle:shortVersionString>0.4.3</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<ul><li>The popover shows only Favorites (starred chips) instead of every recent reminder; the section is hidden when there are none. Right-click an upcoming reminder › Add to Favorites to star it.</li><li>The footer&#x27;s Notes button matches Settings and Quit.</li></ul>]]></description>
+      <enclosure url="https://github.com/mailbagrahul/ninaivu-releases/releases/download/v0.4.3/Ninaivu-0.4.3.zip" type="application/octet-stream" sparkle:edSignature="5xrlnKPDlAMMJIAjd51D6PfDoHHkkURGub5mBlxKzPLb8C8VBi6KhuQJdhDzihUAaIU15ky3JKkeAe9iNbygCg==" length="2869755"/>
+    </item>
+    <item>
       <title>Ninaivu 0.4.2</title>
       <pubDate>Sun, 27 Sep 2026 06:18:26 GMT</pubDate>
       <sparkle:version>7</sparkle:version>
